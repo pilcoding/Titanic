@@ -1,0 +1,9 @@
+# Fichiers temporaires
+*.tmp
+
+# Configuration éditeur
+.vscode/
+
+# Dossiers de compilation
+dist/
+build/
